@@ -1,4 +1,6 @@
-Go to nedcdata.org
+**NEDC Data Repository**
+**Neural Engineering Data Consortium (NEDC)**
+https://nedcdata.org
 
 <!--
 
