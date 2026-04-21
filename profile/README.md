@@ -1,16 +1,14 @@
-**NEDC Data Repository**
-
 **Neural Engineering Data Consortium (NEDC)**
 
 https://nedcdata.org
 
-<!--
+**Overview**
 
-**Here are some ideas to get you started:**
+The **NEDC Data Repository** provides access to large-scale, curated datasets developed and maintained by the Neural Engineering Data Consortium (NEDC). These datasets are designed to support research in machine learning, signal processing, neuroscience, and biomedical engineering. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our goal is to facilitate reproducible research by offering high-quality, well-documented data resources to the academic and scientific community.
+
+**1.) Temple University Hospital EEG Corpus (TUH EEG)**
+**2.) TUH EEG Seizure Corpus (TUSZ)**
+**3.) TUH Abnormal EEG Corpus (TUAB)**
+
