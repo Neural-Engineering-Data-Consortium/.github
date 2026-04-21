@@ -9,6 +9,8 @@ The **NEDC Data Repository** provides access to large-scale, curated datasets de
 Our goal is to facilitate reproducible research by offering high-quality, well-documented data resources to the academic and scientific community.
 
 **1.) Temple University Hospital EEG Corpus (TUH EEG)**
+
 **2.) TUH EEG Seizure Corpus (TUSZ)**
+
 **3.) TUH Abnormal EEG Corpus (TUAB)**
 
