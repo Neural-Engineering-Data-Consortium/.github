@@ -24,17 +24,17 @@ All NEDC datasets are **meticulously curated**, continuously maintained, and sup
 
 **Datasets**
 
-**TUEG** – Temple University EEG Corpus 
+* **TUEG** – Temple University EEG Corpus 
 
-**TUAB** – Abnormal EEG Corpus
+* **TUAB** – Abnormal EEG Corpus
 
-**TUAR** – Artifact Corpus
+* **TUAR** – Artifact Corpus
 
-**TUEP** – EEG Epilepsy Corpus
+* **TUEP** – EEG Epilepsy Corpus
 
-**TUEV** – EEG Events Corpus 
+* **TUEV** – EEG Events Corpus 
 
-**TUSZ** – Seizure Corpus
+* **TUSZ** – Seizure Corpus
 
-**TUSL** – Slowing Corpus
+* **TUSL** – Slowing Corpus
 
