@@ -1,6 +1,5 @@
 
-
-[![NEDC Logo][(https://isip.piconepress.com/)](https://nedcdata.org)
+[![NEDC Logo](https://isip.piconepress.com/)](https://nedcdata.org)
 
 **Neural Engineering Data Consortium (NEDC)**
 
